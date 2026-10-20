@@ -1,0 +1,6 @@
+{
+  "name": "Generator Surat Keterangan Sakit",
+  "description": "Generator surat keterangan sakit dengan format 1:1, auto kalkulasi umur, generator nomor izin praktik (SIP), dan ekspor PDF presisi tinggi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
